@@ -1,21 +1,22 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Behzad Valipour Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
+url: "http://behzad89.github.io"
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Behzad Valipour Sh.
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "GIS Analyst CollectiveCruch oy."
+  email: behzad.valipour@outlook.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: ShValipour
+  linkedin: behzad-valipour-shokouhi-5128b0194
+  github: behzad89
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  researchgate: Behzad_Valipour_Shokouhi
   mendeley: #username
   google:
     plus: #username
