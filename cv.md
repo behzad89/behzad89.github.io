@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Geographic Information Systems Analyst
+__Geographic Information Systems Analyst__
 `Mar 2019 - present`
 
 __CollectiveCrunch oy.__
@@ -19,11 +19,18 @@ M.Sc. in Geoinformatics for Urbanized Society
 
 `Oct 2018 - Aug 2019`
 __Augsburg University, Augsburg (Germany)__
+
 M.Sc. in Geoinformatics (Exchange Student)
 
 `Sep 2011 - Jun 2013`
 __Tabriz University, Tabriz (Iran)__
+
 B.Sc. in Geomatics Engineering of Technology
+
+`Jan 2009 - Mar 2011`
+__Tabriz University, Tabriz (Iran)__
+
+Associate Degree in Civil Engineering Technician - Geomatics
 
 ## Awards
 
