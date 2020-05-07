@@ -4,8 +4,6 @@ layout: resume
 ## Currently
 
 __Geographic Information Systems Analyst__
-`Mar 2019 - present`<br/>
-CollectiveCrunch oy.
 
 ---
 
@@ -33,17 +31,24 @@ Associate Degree in Civil Engineering Technician - Geomatics
 
 `Sep 2019`
 __FUZZY LOGIC BASED BURNED SEVERITY CLASSIFICATION AND MAPPING WITH LANDSAT-8 DATA__<br/>
-Photogrammetric Image Analysis & Munich Remote Sensing Symposium
+Photogrammetric Image Analysis & Munich Remote Sensing Symposium<br/>
 [Link](https://bit.ly/2WEruyq)
 
+---
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+__Geographic Information Systems Analyst__
+`Mar 2019 - present`<br/>
+CollectiveCrunch oy.
 
-- Task
-- Task
+- Geospatial Data Analysis
+- Data Processing
+- Programming
+- Documentation of the process
+- Visualization<br/>
+Responsible for the data collection, assessment of the quality assurance, compiling and analysis of the forestry-related geo-data from various sources to meet the application requirements for four different countries in Nordics including Finland, Sweden, Estonia, and Latvia. Management and creation of most relevant layers and imported data into geo-database for data staff consumption with performing the technical spatial analysis using ArcGIS Desktop, QGIS, Python script (GDAL/OGR package).  Populated, customized and generated high-quality maps and other illustrations in digital and hardcopy format as requested.
+
 
 `1994-1996`
 __Current Job Title__, Current Employer 
