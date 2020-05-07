@@ -74,8 +74,6 @@ Pars Pol Arian construction Company, Iran
 __Geomatics Engineer__<br/>
 Moutabar construction Ltd., Iran
 
-<!-- ### Footer
-
 Last updated: May 2020
 
 
