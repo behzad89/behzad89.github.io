@@ -5,7 +5,7 @@ layout: resume
 
 __Geographic Information Systems Analyst__
 `Mar 2019 - present`<br/>
-_CollectiveCrunch oy._<br/>
+*CollectiveCrunch oy.*
 
 ---
 
