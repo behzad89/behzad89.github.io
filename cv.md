@@ -69,10 +69,25 @@ Pars Pol Arian construction Company, Iran
 - Performs mathematical computations necessary in surveying work to determine distances, elevations, angles, areas, traverses, etc., and interpret findings.
 - AutoCAD Civil 3D and related software to create maps, plats, and cartographic products as needed.
 
+---
 
-`Apr 2014–Jul 2015 `
-__Geomatics Engineer__<br/>
-Moutabar construction Ltd., Iran
+## Awards
+
+`Sep 2019`
+__Dora Plus Short-term mobility Scholarship for participation of young researchers and Master's degree students in the international exchange of knowledge__<br/>
+European Regional Development Fund
+
+`Oct 2018`
+__Study allowances to study M.Sc.__<br/>
+Ministry of Education and Research of Estonia
+
+`Oct 2018`
+__Erasmus scholarship for 12 months to study abroad__<br/>
+Erasmus+ program in European Community
+
+`Sep 2017`
+__Tuition-waiver scholarships to study M.Sc. in Geoinformatics for Urbanized Society__<br/>
+Tartu University - Estonia
 
 <div align="center">Last updated: May 2020<div>
 
