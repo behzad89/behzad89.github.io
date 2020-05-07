@@ -3,13 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Geographic Information Systems Analyst
+`Mar 2019 - present`
+
+__CollectiveCrunch oy.__
+*Otakaari 5, 02150 Espoo, Finland*
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Sep 2017 - Jan 2020`
+__Tartu University, Tartu (Estonia)__
+M.Sc. in Geoinformatics for Urbanized Society
 
 `1995 - 1997`
 __University Name__
