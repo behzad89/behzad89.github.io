@@ -7,6 +7,8 @@ __Geographic Information Systems Analyst__
 `Mar 2019 - present`<br/>
 _CollectiveCrunch oy._<br/>
 
+---
+
 ## Education
 
 `Sep 2017 - Jan 2020`
@@ -24,6 +26,8 @@ B.Sc. in Geomatics Engineering of Technology
 `Jan 2009 - Mar 2011`
 __Tabriz University, Tabriz (Iran)__<br/>
 Associate Degree in Civil Engineering Technician - Geomatics
+
+***
 
 ## Awards
 
