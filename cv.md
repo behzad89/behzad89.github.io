@@ -5,7 +5,7 @@ layout: resume
 
 __Geographic Information Systems Analyst__
 `Mar 2019 - present`<br/>
-*CollectiveCrunch oy.*
+CollectiveCrunch oy.
 
 ---
 
@@ -29,36 +29,12 @@ Associate Degree in Civil Engineering Technician - Geomatics
 
 ***
 
-## Awards
-
-`2012`
-Name of Award, Organization 
-
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`Sep 2019`
+__FUZZY LOGIC BASED BURNED SEVERITY CLASSIFICATION AND MAPPING WITH LANDSAT-8 DATA__<br/>
+Photogrammetric Image Analysis & Munich Remote Sensing Symposium
+[Link](https://bit.ly/2WEruyq)
 
 
 ## Occupation
