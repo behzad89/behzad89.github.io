@@ -29,10 +29,22 @@ Associate Degree in Civil Engineering Technician - Geomatics
 
 ## Publications
 
+`Jan 2020`
+__Mapping Wildfire Susceptibility of Sardinia Island, Italy__<br/>
+M.Sc. thesis – Grade: A (Excellent)<br/>
+
 `Sep 2019`
 __FUZZY LOGIC BASED BURNED SEVERITY CLASSIFICATION AND MAPPING WITH LANDSAT-8 DATA__<br/>
-Photogrammetric Image Analysis & Munich Remote Sensing Symposium<br/>
+Photogrammetric Image Analysis & Munich Remote Sensing Symposium
 [Link](https://bit.ly/2WEruyq)
+
+`Apr 2019`
+__Accessibility to Green Areas in Tartu City, Estonia__<br/>
+Estonian Esri Young Scholars Award scholarship program
+
+`Apr 2019`
+__Deforestation monitoring of Arasbaran Forest change detection using NDVI Future Space__<br/>
+B.Sc. thesis: Grade: 20 (Out of 20)
 
 ---
 
