@@ -4,32 +4,27 @@ layout: resume
 ## Currently
 
 __Geographic Information Systems Analyst__
-`Mar 2019 - present`
-
-__CollectiveCrunch oy.__
+`Mar 2019 - present`<br/>
+__CollectiveCrunch oy.__<br/>
 
 *Otakaari 5, 02150 Espoo, Finland*
 
 ## Education
 
 `Sep 2017 - Jan 2020`
-__Tartu University, Tartu (Estonia)__
-
+__Tartu University, Tartu (Estonia)__<br/>
 M.Sc. in Geoinformatics for Urbanized Society
 
 `Oct 2018 - Aug 2019`
-__Augsburg University, Augsburg (Germany)__
-
+__Augsburg University, Augsburg (Germany)__<br/>
 M.Sc. in Geoinformatics (Exchange Student)
 
 `Sep 2011 - Jun 2013`
-__Tabriz University, Tabriz (Iran)__
-
+__Tabriz University, Tabriz (Iran)__<br/>
 B.Sc. in Geomatics Engineering of Technology
 
 `Jan 2009 - Mar 2011`
-__Tabriz University, Tabriz (Iran)__
-
+__Tabriz University, Tabriz (Iran)__<br/>
 Associate Degree in Civil Engineering Technician - Geomatics
 
 ## Awards
