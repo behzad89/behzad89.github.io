@@ -38,9 +38,9 @@ Photogrammetric Image Analysis & Munich Remote Sensing Symposium<br/>
 
 ## Occupation
 
-__Geographic Information Systems Analyst__
+__Geographic Information Systems Analyst__<br/>
 `Mar 2019 - present`<br/>
-CollectiveCrunch oy.
+CollectiveCrunch oy., Finland
 
 - Geospatial Data Analysis
 - Data Processing
@@ -51,10 +51,13 @@ Responsible for the data collection, assessment of the quality assurance, compil
 
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Geographic Information Systems Specialist__<br/>
+`Jun 2018–Dec 2018 `<br/>
+Regio Ltd., Estonia
 
-- Task
-- Task
+- Digitizing & labeling
+- Programming to automation the process
+Regio is the oldest and biggest Estonian map publisher. Started my internship with this company. During this period, we are working on Planning Fiber Optic Network in Germany. The first step required the pipeline to automate the generation of the fiber network was produced. In the second step, manually all the errors were corrected. The same process was done for labeling the produced maps.
 
 
 
