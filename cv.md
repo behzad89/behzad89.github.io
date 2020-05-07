@@ -5,9 +5,7 @@ layout: resume
 
 __Geographic Information Systems Analyst__
 `Mar 2019 - present`<br/>
-__CollectiveCrunch oy.__<br/>
-
-*Otakaari 5, 02150 Espoo, Finland*
+_CollectiveCrunch oy._<br/>
 
 ## Education
 
