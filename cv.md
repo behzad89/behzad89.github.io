@@ -7,17 +7,23 @@ Geographic Information Systems Analyst
 `Mar 2019 - present`
 
 __CollectiveCrunch oy.__
+
 *Otakaari 5, 02150 Espoo, Finland*
 
 ## Education
 
 `Sep 2017 - Jan 2020`
 __Tartu University, Tartu (Estonia)__
+
 M.Sc. in Geoinformatics for Urbanized Society
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`Oct 2018 - Aug 2019`
+__Augsburg University, Augsburg (Germany)__
+M.Sc. in Geoinformatics (Exchange Student)
+
+`Sep 2011 - Jun 2013`
+__Tabriz University, Tabriz (Iran)__
+B.Sc. in Geomatics Engineering of Technology
 
 ## Awards
 
