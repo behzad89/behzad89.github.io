@@ -36,6 +36,7 @@ M.Sc. thesis – Grade: A (Excellent)<br/>
 `Sep 2019`
 __Fuzzy Logic Based Burned Severity Classification and Mapping with Landsat-8 data__<br/>
 Photogrammetric Image Analysis & Munich Remote Sensing Symposium<br/>
+
 [Link](https://bit.ly/2WEruyq)
 
 `Apr 2019`
