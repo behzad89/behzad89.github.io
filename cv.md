@@ -34,7 +34,7 @@ __Mapping Wildfire Susceptibility of Sardinia Island, Italy__<br/>
 M.Sc. thesis – Grade: A (Excellent)<br/>
 
 `Sep 2019`
-__FUZZY LOGIC BASED BURNED SEVERITY CLASSIFICATION AND MAPPING WITH LANDSAT-8 DATA__<br/>
+__Fuzzy Logic Based Burned Severity Classification and Mapping with Landsat-8 data__<br/>
 Photogrammetric Image Analysis & Munich Remote Sensing Symposium
 [Link](https://bit.ly/2WEruyq)
 
