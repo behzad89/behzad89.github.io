@@ -22,3 +22,14 @@ do
 gdal_translate -a_srs EPSG:3346 -of GTiff -co COMPRESS=DEFLATE -co ZLEVEL=9 $filename $(pwd)/tiff/${filename%.*}.tif
 done
 ```
+
+# Getting the list of converted files
+```BASH
+ls ./tiff/*.tif > list.txt
+```
+# Making mosaic out of file's list
+```BASH
+gdalwarp -co BIGTIFF=YES --optfile ./tiff/list.txt ./mosaic/ort_mosaic_lithuania_2019.tif
+
+![One mosaic](https://github.com/behzad89/behzad89.github.io/blob/master/images/mosaic_lt.JPG)
+```
