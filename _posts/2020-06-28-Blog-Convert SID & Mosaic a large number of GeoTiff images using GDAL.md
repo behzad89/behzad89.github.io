@@ -25,12 +25,12 @@ done
 {% endhighlight %}
 
 # Getting the list of converted files
-```BASH
+{% highlight bash %}
 ls ./tiff/*.tif > list.txt
-```
+{% endhighlight %}
 # Making mosaic out of file's list
-```BASH
+{% highlight bash %}
 gdalwarp -co BIGTIFF=YES --optfile ./tiff/list.txt ./mosaic/ort_mosaic_lithuania_2019.tif
-```
+{% endhighlight %}
 <img src="https://github.com/behzad89/behzad89.github.io/blob/master/images/mosaic_lt.JPG" alt="hi" class="inline"/>
 
