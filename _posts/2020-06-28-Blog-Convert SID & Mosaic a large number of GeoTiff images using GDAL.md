@@ -32,5 +32,6 @@ ls ./tiff/*.tif > list.txt
 {% highlight bash %}
 gdalwarp -co BIGTIFF=YES --optfile ./tiff/list.txt ./mosaic/ort_mosaic_lithuania_2019.tif
 {% endhighlight %}
-<img src="./blob/master/images/mosaic_lt.JPG" alt="hi" class="inline"/>
+
+<img src="./images/mosaic_lt.JPG" alt="hi" class="inline"/>
 
