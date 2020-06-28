@@ -20,7 +20,7 @@ in the first step, it is required to use loop in bash to read and conver each SI
 
 {% highlight bash %}
 #! /bin/bash
- for filename in *.sid 
+for filename in *.sid 
 do
 gdal_translate -a_srs EPSG:3346 -of GTiff -co COMPRESS=DEFLATE -co ZLEVEL=9 $filename $(pwd)/tiff/${filename%.*}.tif
 done 
