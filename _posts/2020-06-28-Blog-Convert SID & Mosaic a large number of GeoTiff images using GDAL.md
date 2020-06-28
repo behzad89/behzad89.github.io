@@ -15,6 +15,7 @@ Sometimes raw raster data coming with raw format which does not include any proj
 # Conversion of SID to GeoTiff
 
 in the first step, it is required to use loop in bash to read and conver each SID tile to GeoTiff one.
+
 {% highlight bash %}
 #! /bin/bash
  for filename in *.sid 
