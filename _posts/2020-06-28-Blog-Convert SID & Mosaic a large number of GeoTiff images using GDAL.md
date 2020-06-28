@@ -12,7 +12,7 @@ Sometimes raw raster data coming with raw format which does not include any proj
 {: style="text-align: justify"}
 
 
-![img1](https://i.stack.imgur.com/qtFfm.jpg)
+![img](https://i.stack.imgur.com/qtFfm.jpg)
 
 # Conversion of SID to GeoTiff
 
