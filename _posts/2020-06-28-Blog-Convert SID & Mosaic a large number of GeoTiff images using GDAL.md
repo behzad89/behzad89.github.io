@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Convert SID & Mosaic a large number of GeoTiff images using GDAL
+title: Convert SID format & Mosaic a large number of GeoTiff images
 excerpt: Sample bash script using GDAL
 created: 06/29/2020, 00:00:24
 tags: [GDAL, Mosaic, SID, Bash script, Geotiff]
