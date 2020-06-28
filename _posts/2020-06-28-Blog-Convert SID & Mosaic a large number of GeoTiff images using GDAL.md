@@ -12,7 +12,7 @@ Sometimes raw raster data coming with raw format which does not include any proj
 {: style="text-align: justify"}
 
 
-![img](./Blog-Convert-SID-&-Mosaic-a-large-number-of-GeoTiff-images-using-GDAL/tile_lt.JPG)
+![img1](./Blog-Convert-SID-&-Mosaic-a-large-number-of-GeoTiff-images-using-GDAL/tile_lt.JPG)
 
 # Conversion of SID to GeoTiff
 
@@ -35,5 +35,5 @@ ls ./tiff/*.tif > list.txt
 gdalwarp -co BIGTIFF=YES --optfile ./tiff/list.txt ./mosaic/ort_mosaic_lithuania_2019.tif
 {% endhighlight %}
 
-<img src="./Blog-Convert-SID-&-Mosaic-a-large-number-of-GeoTiff-images-using-GDAL/mosaic_lt.JPG" alt="mosaic" class="inline"/>
+<img src="./Blog-Convert-SID-&-Mosaic-a-large-number-of-GeoTiff-images-using-GDAL/mosaic_lt.JPG" alt="mosaic2" class="inline"/>
 
