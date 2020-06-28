@@ -15,13 +15,12 @@ Sometimes raw raster data coming with raw format which does not include any proj
 # Conversion of SID to GeoTiff
 
 in the first step, it is required to use loop in bash to read and conver each SID tile to GeoTiff one.
-```BASH
+{% highlight bash %}
 #! /bin/bash
  for filename in *.sid 
 do
 gdal_translate -a_srs EPSG:3346 -of GTiff -co COMPRESS=DEFLATE -co ZLEVEL=9 $filename $(pwd)/tiff/${filename%.*}.tif
-done
-```
+done {% endhighlight %}
 
 # Getting the list of converted files
 ```BASH
