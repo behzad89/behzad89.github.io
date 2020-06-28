@@ -12,7 +12,7 @@ Sometimes raw raster data coming with raw format which does not include any proj
 {: style="text-align: justify"}
 
 
-![img1](./Blog-Convert-SID-&-Mosaic-a-large-number-of-GeoTiff-images-using-GDAL/tile_lt.JPG)
+![img1](https://i.stack.imgur.com/qtFfm.jpg)
 
 # Conversion of SID to GeoTiff
 
