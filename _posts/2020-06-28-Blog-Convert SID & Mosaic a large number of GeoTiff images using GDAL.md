@@ -30,6 +30,5 @@ ls ./tiff/*.tif > list.txt
 # Making mosaic out of file's list
 ```BASH
 gdalwarp -co BIGTIFF=YES --optfile ./tiff/list.txt ./mosaic/ort_mosaic_lithuania_2019.tif
-
-![One mosaic](https://github.com/behzad89/behzad89.github.io/blob/master/images/mosaic_lt.JPG)
 ```
+![One mosaic](https://github.com/behzad89/behzad89.github.io/blob/master/images/mosaic_lt.JPG)
