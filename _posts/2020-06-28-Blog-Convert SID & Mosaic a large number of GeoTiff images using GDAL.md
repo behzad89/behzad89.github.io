@@ -18,7 +18,7 @@ In this sample code, this powerful library was used to firstly, convert the [SID
 {: style="text-align: justify"}
 
 
-<img align="left" width="1000" height="1000" src="https://behzad89.github.io/images/tile_lt.JPG">
+<img align="left" src="https://behzad89.github.io/images/tile_lt.JPG">
 
 *Fig. 1: One tile of the orthophoto image*
 {: style="text-align: center"}
