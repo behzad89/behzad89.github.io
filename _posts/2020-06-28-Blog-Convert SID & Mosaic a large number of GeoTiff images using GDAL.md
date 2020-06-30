@@ -14,7 +14,7 @@ Sometimes raw raster data coming with raw format which does not include any proj
 One of the computer software library for reading and writing raster and vector geospatial data formats, which is released under the permissive X/MIT style free software license by the Open Source Geospatial Foundation is [GDAL (Geospatial Data Abstraction Library)](https://gdal.org/). This library includes tools for both raster (gdal_translate, gdal_warp etc.) & vector (ogr2ogr, ogrmerge etc.). However, it is well-known for its tools for dealing with big raster datasets. 
 {: style="text-align: justify"}
 
-In this sample code, this powerful library was used to firstly, convert the [SID (MrSID – Multi-resolution Seamless Image Database)](https://gdal.org/drivers/raster/mrsid.html) to [GeoTiff](https://gdal.org/drivers/raster/gtiff.html) & creation of mosaic out of the converted raster tiles.Finally, create a perview of the produced mosaic with low volume.
+In this sample code, this powerful library was used to convert the [SID (MrSID – Multi-resolution Seamless Image Database)](https://gdal.org/drivers/raster/mrsid.html) to [GeoTiff](https://gdal.org/drivers/raster/gtiff.html) & to create mosaic out of the converted raster tiles. Finally, to generate a perview of the produced mosaic with low volume.
 {: style="text-align: justify"}
 
 <p align="center">
