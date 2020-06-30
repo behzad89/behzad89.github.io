@@ -19,7 +19,7 @@ In this sample code, this powerful library was used to convert the [SID (MrSID â
 
 <p align="center">
   <img width="500" height="500" src="https://behzad89.github.io/images/tile_lt.JPG">
-</p>
+</p><br/>
 *Fig. 1: One tile of the orthophoto image*
 {: style="text-align: center"}
 
@@ -51,6 +51,6 @@ gdal_translate -of jpeg -scale -outsize 10% 10% ./mosaic/ort_mosaic_lithuania_20
 
 <p align="center">
   <img src="https://behzad89.github.io/images/mosaic_lt.JPG">
-</p>
+</p><br/>
 *Fig. 2: Created preview of the mosaic image*
 {: style="text-align: center"}
