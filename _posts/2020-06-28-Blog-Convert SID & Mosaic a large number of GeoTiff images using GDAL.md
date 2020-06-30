@@ -50,7 +50,7 @@ gdal_translate -of jpeg -scale -outsize 10% 10% ./mosaic/ort_mosaic_lithuania_20
 {% endhighlight %}
 
 <p align="center">
-  <img width="500" height="500" src="https://behzad89.github.io/images/mosaic_lt.JPG">
+  <img src="https://behzad89.github.io/images/mosaic_lt.JPG">
 </p>
 *Fig. 2: Created preview of the mosaic image*
 {: style="text-align: center"}
