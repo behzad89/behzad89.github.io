@@ -21,7 +21,7 @@ In this sample code, this powerful library was used to firstly, convert the [SID
 ![tile img](https://behzad89.github.io/images/tile_lt.JPG)
 
 *Fig. 1: One tile of the orthophoto image*
-
+{: style="text-align: center"}
 
 
 # Conversion of SID to GeoTiff
