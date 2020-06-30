@@ -49,5 +49,8 @@ gdalwarp -co BIGTIFF=YES --optfile ./tiff/list.txt ./mosaic/ort_mosaic_lithuania
 gdal_translate -of jpeg -scale -outsize 10% 10% ./mosaic/ort_mosaic_lithuania_2019.tif ./mosaic/ort_mosaic_lithuania_2019.jpeg 
 {% endhighlight %}
 
-![mosaic img](https://behzad89.github.io/images/mosaic_lt.JPG)
-
+<p align="center">
+  <img width="500" height="500" src="https://behzad89.github.io/images/mosaic_lt.JPG">
+</p>
+*Fig. 2: Created preview of the mosaic image*
+{: style="text-align: center"}
