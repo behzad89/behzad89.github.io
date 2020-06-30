@@ -17,8 +17,9 @@ One of the computer software library for reading and writing raster and vector g
 In this sample code, this powerful library was used to firstly, convert the [SID (MrSID – Multi-resolution Seamless Image Database)](https://gdal.org/drivers/raster/mrsid.html) to [GeoTiff](https://gdal.org/drivers/raster/gtiff.html) & creation of mosaic out of the converted raster tiles.Finally, create a perview of the produced mosaic with low volume.
 {: style="text-align: justify"}
 
-![tile img](https://behzad89.github.io/images/tile_lt.JPG)
-\n
+
+<img align="left" width="1000" height="1000" src="https://behzad89.github.io/images/tile_lt.JPG">
+
 *Fig. 1: One tile of the orthophoto image*
 {: style="text-align: center"}
 
