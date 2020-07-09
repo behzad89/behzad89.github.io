@@ -290,5 +290,5 @@ fig.subplots_adjust(wspace=0, hspace=0)
 {: style="text-align: center"}
 
 Source:
-- https://eo-learn.readthedocs.io/en/latest/
-- https://sentinelhub-py.readthedocs.io/en/latest/index.html
+- [eo-learn](https://eo-learn.readthedocs.io/en/latest/)
+- [SentinelHUB](https://sentinelhub-py.readthedocs.io/en/latest/index.html)
