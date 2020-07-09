@@ -21,7 +21,7 @@ In this post, I would like to use retrieve the time series Sentinel-2 Level-2A f
 {: style="text-align: justify"}
 
 
-# Set up the configuration 
+# Set up the Configuration 
 
 {% highlight python %}
 %reload_ext autoreload
@@ -34,7 +34,7 @@ In this post, I would like to use retrieve the time series Sentinel-2 Level-2A f
 config = SHConfig()
 {% endhighlight %}
 
-# Import the required libraries
+# Import the Required Libraries
 
 {% highlight python %}
 # Add generic packages
@@ -61,7 +61,7 @@ from eolearn.features import LinearInterpolation, SimpleFilterTask
 from sentinelhub import BBox, CRS, DataSource, MimeType, SentinelHubRequest, SHConfig,BBoxSplitter
 {% endhighlight %}
 
-# Set up the path to read & write data
+# Set up the Path to Read & Write data
 
 {% highlight python %}
 # Set path to data
@@ -74,7 +74,7 @@ if not os.path.isdir(OUTPUT_FOLDER):
     os.mkdir(OUTPUT_FOLDER)
 {% endhighlight %}
 
-# Read the area of the interest & visualize it 
+# Read the Area of Interest & Visualize it 
 
 {% highlight python %}
 # import the country (Finland) & AOI
@@ -95,7 +95,7 @@ plt.show()
 *Fig. 1: The AOI in the south of Finland*
 {: style="text-align: center"}
 
-# Change the projection from WGS84 to UTM
+# Change the Projection from WGS84 to UTM
 
 {% highlight python %}
 country_crs = CRS.UTM_35N
@@ -104,7 +104,7 @@ aoi = aoi.to_crs(crs=CRS.ogc_string(country_crs))
 country.crs
 {% endhighlight %}
 
-# Split to smaller tiles
+# Split to Smaller Tiles
 
 A 3x3 EOPatch sample, where each EOPatch has around 3.30 x 3.30 km (~300 MB per EOPatch), is presented.
 
@@ -124,7 +124,7 @@ bbox_list = np.array(bbox_splitter.get_bbox_list())
 info_list = np.array(bbox_splitter.get_info_list())
 {% endhighlight %}
 
-## Save & plot the created grids (Patches)
+## Save & Plot the Created Grids (Patches)
 {% highlight python %}
 # Save grided AOI to the Shapefile
 geometry = [Polygon(bbox.get_polygon()) for bbox in bbox_splitter.bbox_list]
@@ -145,14 +145,14 @@ plt.show()
 {% endhighlight %}
 
 <p align="center">
-  <img width="500" height="500" src="https://behzad89.github.io/images/post_02_img_02.JPG">
+  <img width="300" height="300" src="https://behzad89.github.io/images/post_02_img_02.JPG">
 </p><br/>
 *Fig. 1: Created grids (patches) of the AOI*
 {: style="text-align: center"}
 
 # Choose a 3x3 area
 
-##  Finding the center pixel
+##  Finding the Centeral Patch
 {% highlight python %}
 clm_x = gdf_all_aoi[gdf_all_aoi['index_x'] == 35]
 clm_x[clm_x['index_y'] == 25]
@@ -190,7 +190,7 @@ gdf_sellected_area.to_file(shapefile_name,driver='GeoJSON')
 {% endhighlight %}
 
 
-## Visualize the selection
+## Visualize the selected patches
 {% highlight python %}
 poly = gdf_sellected_area['geometry'][0]
 x1, y1, x2, y2 = poly.bounds
@@ -218,7 +218,7 @@ ax.set_title('Finland AOI tiled in a 18 x 13 grid');
 
 # Define WorkFlow Tasks
 
-## Read 6 bands of S2L1A with 10% cloud coverage
+## Read 6 bands of S2L2A with 10% cloud coverage from Sentinel HUB
 {% highlight python %}
 # add a request for B(B02), G(B03), R(B04), NIR (B08), SWIR1(B11), SWIR2(B12) 
 custom_script = ['B02', 'B03', 'B04', 'B08', 'B11', 'B12']
@@ -238,7 +238,7 @@ if not os.path.isdir(path_out):
 save = SaveTask(path=path_out, overwrite_permission=2, compress_level=1)
 {% endhighlight %}
 
-## Define & execute the workflow
+## Define & Execute the Workflow
 {% highlight python %}
 # Define the workflow
 workflow = LinearWorkflow(
