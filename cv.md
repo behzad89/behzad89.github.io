@@ -116,6 +116,6 @@ Erasmus+ program in European Community
 __Tuition-waiver scholarships to study M.Sc. in Geoinformatics for Urbanized Society__<br/>
 Tartu University - Estonia
 
-<div align="center">Last updated: May 2020<div>
+<div align="center">Last updated: September 2020<div>
 
 
