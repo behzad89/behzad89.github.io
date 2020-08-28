@@ -10,7 +10,7 @@ __PhD Candidate at Swiss Tropical and Public Health Institute__
 ## Education
 
 `Sep 2020 - present`
-__ Swiss TPH Institute, Basel University, Basel (Switzerland)__<br/>
+__Swiss TPH Institute, Basel University, Basel (Switzerland)__<br/>
 PhD in Environmental Exposure Science
 
 `Sep 2017 - Jan 2020`
@@ -54,7 +54,7 @@ B.Sc. thesis: Grade: 20 (Out of 20)
 
 ## Occupation
 
-`Mar 2019 - present`
+`Sep 2020 - present`
 __PhD Candidate__<br/>
 Swiss Tropical and Public Health Institute, Switzerland
 
