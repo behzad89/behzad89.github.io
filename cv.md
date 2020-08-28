@@ -62,7 +62,8 @@ Swiss Tropical and Public Health Institute, Switzerland
 - Data Processing
 - Programming
 - Documentation of the process
-- Visualization<br/>
+- Visualization
+- Machine Learning<br/>
 
 
 `Mar 2019 - present`
