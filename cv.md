@@ -3,11 +3,15 @@ layout: resume
 ---
 ## Currently
 
-__Geographic Information Systems Analyst__
+__PhD Candidate at Swiss Tropical and Public Health Institute__
 
 ---
 
 ## Education
+
+`Sep 2020 - present`
+__ Swiss TPH Institute, Basel University, Basel (Switzerland)__<br/>
+PhD in Environmental Exposure Science
 
 `Sep 2017 - Jan 2020`
 __Tartu University, Tartu (Estonia)__<br/>
@@ -49,6 +53,17 @@ B.Sc. thesis: Grade: 20 (Out of 20)
 ---
 
 ## Occupation
+
+`Mar 2019 - present`
+__PhD Candidate__<br/>
+Swiss Tropical and Public Health Institute, Switzerland
+
+- Geospatial Data Analysis
+- Data Processing
+- Programming
+- Documentation of the process
+- Visualization<br/>
+
 
 `Mar 2019 - present`
 __Geographic Information Systems Analyst__<br/>
