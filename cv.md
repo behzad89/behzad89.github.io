@@ -3,14 +3,14 @@ layout: resume
 ---
 ## Currently
 
-__PhD Candidate at Swiss Tropical and Public Health Institute__
+__Researcher PHD Student at Swiss Tropical and Public Health__
 
 ---
 
 ## Education
 
 `Sep 2020 - present`
-__Swiss TPH Institute, Basel University, Basel (Switzerland)__<br/>
+__Basel University, Basel (Switzerland)__<br/>
 PhD in Environmental Exposure Science
 
 `Sep 2017 - Jan 2020`
@@ -55,7 +55,7 @@ B.Sc. thesis: Grade: 20 (Out of 20)
 ## Occupation
 
 `Sep 2020 - present`
-__PhD Candidate__<br/>
+__Researcher PHD Student at Swiss Tropical and Public Health__<br/>
 Swiss Tropical and Public Health Institute, Switzerland
 
 - Geospatial Data Analysis
