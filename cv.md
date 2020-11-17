@@ -58,13 +58,10 @@ B.Sc. thesis: Grade: 20 (Out of 20)
 __Researcher PHD Student at Swiss Tropical and Public Health__<br/>
 Swiss Tropical and Public Health Institute, Switzerland
 
-- Geospatial Data Analysis
-- Data Processing
-- Programming
-- Documentation of the process
-- Visualization
-- Machine Learning<br/>
-
+- Data management and cleaning 
+- Development of nationwide spatiotemporal exposure models in Switzerland.
+- Drafting (as first author) and submission of three scientific publications related to research findings.
+- Presenting research findings at national and international scientific conferences.<br/>
 
 `Mar 2019 - present`
 __Geographic Information Systems Analyst__<br/>
