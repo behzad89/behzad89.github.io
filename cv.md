@@ -3,7 +3,53 @@ layout: resume
 ---
 ## Currently
 
+__Data engineer at CollectiveCrunch oy.__
+
 __Researcher PHD Student at Swiss Tropical and Public Health__
+
+---
+
+## Occupation
+
+`Sep 2020 - present`
+__Researcher PHD Student at Swiss Tropical and Public Health__<br/>
+Swiss Tropical and Public Health Institute, Switzerland
+
+- Data management and cleaning 
+- Development of nationwide spatiotemporal exposure models in Switzerland.
+- Drafting (as first author) and submission of three scientific publications related to research findings.
+- Presenting research findings at national and international scientific conferences.<br/>
+
+`Mar 2019 - present`
+__Data Engineer__<br/>
+CollectiveCrunch oy., Finland
+
+- Geospatial Data Analysis
+- Data Processing
+- Programming
+- Documentation of the process
+- Visualization<br/>
+Responsible for the data collection, assessment of the quality assurance, compiling and analysis of the forestry-related geo-data from various sources to meet the application requirements for Scandinavian and Baltic regions. Management and creation of most relevant layers and imported data into geo-database for data staff consumption with performing the technical spatial analysis using ArcGIS Desktop, QGIS, Python script (GDAL/OGR package).  Populated, customized and generated high-quality maps and other illustrations in digital and hardcopy format as requested.
+
+
+`Jun 2018–Dec 2018 `
+__Geographic Information Systems Specialist__<br/>
+Regio Ltd., Estonia
+
+- Digitizing & labeling
+- Programming to automation the process
+Regio is the oldest and biggest Estonian map publisher. Started my internship with this company. During this period, we are working on Planning Fiber Optic Network in Germany. The first step required the pipeline to automate the generation of the fiber network was produced. In the second step, manually all the errors were corrected. The same process was done for labeling the produced maps.
+
+
+`Aug 2015–Jun 2017 `
+__Geomatics Engineer__<br/>
+Pars Pol Arian construction Company, Iran
+
+- Supervises the work of a survey party by planning, organizing, assigning, directing, and reviewing the work of subordinates, including completing performance evaluations for subordinates and administering disciplinary procedures when necessary.
+- Plans and organizes surveying work by determining the logistics for conducting each survey; setting and adhering to project deadlines; - assigning responsibilities to subordinates; and managing ongoing work to ensure that surveys provide the necessary and desired information and documentation.
+- Reads and interprets maps, drawings, and prior survey notes, such as subdivision, right-of-way, parcel, contour, lease maps, and construction drawings to plan survey work.
+- Performs mathematical computations necessary in surveying work to determine distances, elevations, angles, areas, traverses, etc., and interpret findings.
+- AutoCAD Civil 3D and related software to create maps, plats, and cartographic products as needed.
 
 ---
 
@@ -49,50 +95,6 @@ Estonian Esri Young Scholars Award scholarship program
 `Apr 2019`
 __Deforestation monitoring of Arasbaran Forest change detection using NDVI Future Space__<br/>
 B.Sc. thesis: Grade: 20 (Out of 20)
-
----
-
-## Occupation
-
-`Sep 2020 - present`
-__Researcher PHD Student at Swiss Tropical and Public Health__<br/>
-Swiss Tropical and Public Health Institute, Switzerland
-
-- Data management and cleaning 
-- Development of nationwide spatiotemporal exposure models in Switzerland.
-- Drafting (as first author) and submission of three scientific publications related to research findings.
-- Presenting research findings at national and international scientific conferences.<br/>
-
-`Mar 2019 - present`
-__Geographic Information Systems Analyst__<br/>
-CollectiveCrunch oy., Finland
-
-- Geospatial Data Analysis
-- Data Processing
-- Programming
-- Documentation of the process
-- Visualization<br/>
-Responsible for the data collection, assessment of the quality assurance, compiling and analysis of the forestry-related geo-data from various sources to meet the application requirements for four different countries in Nordics including Finland, Sweden, Estonia, and Latvia. Management and creation of most relevant layers and imported data into geo-database for data staff consumption with performing the technical spatial analysis using ArcGIS Desktop, QGIS, Python script (GDAL/OGR package).  Populated, customized and generated high-quality maps and other illustrations in digital and hardcopy format as requested.
-
-
-`Jun 2018–Dec 2018 `
-__Geographic Information Systems Specialist__<br/>
-Regio Ltd., Estonia
-
-- Digitizing & labeling
-- Programming to automation the process
-Regio is the oldest and biggest Estonian map publisher. Started my internship with this company. During this period, we are working on Planning Fiber Optic Network in Germany. The first step required the pipeline to automate the generation of the fiber network was produced. In the second step, manually all the errors were corrected. The same process was done for labeling the produced maps.
-
-
-`Aug 2015–Jun 2017 `
-__Geomatics Engineer__<br/>
-Pars Pol Arian construction Company, Iran
-
-- Supervises the work of a survey party by planning, organizing, assigning, directing, and reviewing the work of subordinates, including completing performance evaluations for subordinates and administering disciplinary procedures when necessary.
-- Plans and organizes surveying work by determining the logistics for conducting each survey; setting and adhering to project deadlines; - assigning responsibilities to subordinates; and managing ongoing work to ensure that surveys provide the necessary and desired information and documentation.
-- Reads and interprets maps, drawings, and prior survey notes, such as subdivision, right-of-way, parcel, contour, lease maps, and construction drawings to plan survey work.
-- Performs mathematical computations necessary in surveying work to determine distances, elevations, angles, areas, traverses, etc., and interpret findings.
-- AutoCAD Civil 3D and related software to create maps, plats, and cartographic products as needed.
 
 ---
 
